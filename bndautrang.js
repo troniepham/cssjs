@@ -121,3 +121,4 @@ jQuery(window).load(function() {
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
+ 
