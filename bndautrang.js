@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/eLwgRO' target='_blank'><img src='https://plus.google.com/photos/photo/108482706318324673677/6340554748070186658?icm=false&authkey=CMO36J336a3NDw' width='500px'/><br/>Nước Hoa Chính Hãng Việt Nam</a>. Liên Hệ: 0907 876 891. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/eLwgRO' target='_blank'><img src='https://lh3.googleusercontent.com/CaoJrVJBNqU-U6pl6sdd-X5-LXAD8ZMlLQXE_t5y0_7EYGLrCAzFouexHTggYMVXE-XljGFm5w=w4320-h2700-rw-no' width='500px'/><br/>Nước Hoa Chính Hãng Việt Nam</a>. Liên Hệ: 0907 876 891. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
